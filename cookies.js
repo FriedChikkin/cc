@@ -1,1 +1,1 @@
-document.cookie = "funnycookie=funni";
+document.cookie = "funnycookie=funni;funnyercookie=funnier";
